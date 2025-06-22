@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Bi9RV2MqQUGIyYyrtaNMIg" Reference="lfiepfyuqkSlt3Ew9fJEBA/ZZ7PTSyFcU-51fnxhppqzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" DesignTimeRectangle="611, 539, 310, 32" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Download Monthly Report' parentid='dashmenu' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Download Monthly Report' parentid='dashmenu' tag='A' type='' class='' check:innerText='Download Monthly Report' /&gt;" Guid="d2e40620-d1f2-414c-9e2d-f541920c3c03" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="334, 529, 250, 57" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                  Reports' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' check:innerText='Reports' /&gt;" Guid="04d13ba4-bd78-44a0-a4cd-cfb83b0566e1" SearchSteps="FuzzySelector" />
+          <Target CVScreenId="522361a5-6d85-4d1b-b280-00f5d01027fd" CvTextArea="244, 121, 166, 21" CvTextArgument="ACME System 1" CvType="Text" DesignTimeRectangle="228, 101, 203, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='navbar-brand' aaname='ACME System 1' check:innerText='ACME System 1' /&gt;" Guid="dc21c4a5-a79c-477a-a078-c8959630624c" SearchSteps="FuzzySelector, CV" />
+          <Target DesignTimeRectangle="334, 877, 250, 57" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                          Customer Service' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg' check:innerText='Customer Service' /&gt;" Guid="e951ffe0-4235-44bd-9f51-ec1e1a4ae7e0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3d5c4802054b5c638ed0eecad87b4077.png" xmlns="">0VpyMEygWr0Ckb3RV7qmRkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

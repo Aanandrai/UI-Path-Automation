@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Google",
+  "Type": "Screen",
+  "Id": "HY9EfhDI8UqgcLwOhAWJGQ",
+  "Reference": "AD6apzExZ0WjVgY1RJSEaw/HY9EfhDI8UqgcLwOhAWJGQ",
+  "ParentRef": "AD6apzExZ0WjVgY1RJSEaw/uzTLSEIx-0euBwoRz6bTfA",
+  "Created": "2025-06-17T07:29:11.0286023Z",
+  "Updated": "2025-06-17T07:29:11.0286023Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

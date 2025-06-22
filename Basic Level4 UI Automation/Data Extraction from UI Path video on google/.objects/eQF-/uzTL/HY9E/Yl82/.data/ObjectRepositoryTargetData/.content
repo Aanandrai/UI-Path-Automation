@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="puj-S8om-EGSzFoW_jdzKg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.in/webhp" CVScreenId="590e5cc2-081e-49c1-aa06-9fdf331d9ac1" CvElementArea="790, 524, 164, 50" CvTextArea="812, 540, 119, 20" CvTextArgument="Google Search" CvType="Button" DesignTimeRectangle="793, 527, 159, 45" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='submit' tag='INPUT' class='gNO89b' aaname='Google Search' check:text='Google Search' /&gt;" Guid="0e814647-3d46-43bf-9c53-494ff3975b18" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="590e5cc2-081e-49c1-aa06-9fdf331d9ac1" CvTextArea="794, 281, 347, 117" CvTextArgument="Google" CvType="Text" DesignTimeRectangle="799, 284, 340, 115" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='lnXdpd' tag='svg' type='' aaname='' /&gt;" Guid="fc4d6d92-eefc-44ff-a5dd-3ce8d1cb6030" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a8f791f4a45f3aff09353cae6c3ea3b7.png" xmlns="">0h0g8gV9U2U2YJ5kTzI_2Cw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

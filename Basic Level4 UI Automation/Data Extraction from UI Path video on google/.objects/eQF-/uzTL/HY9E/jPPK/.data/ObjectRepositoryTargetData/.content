@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dxPVBC1CaEW_LP9EBzbBWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.in/webhp" CVScreenId="590e5cc2-081e-49c1-aa06-9fdf331d9ac1" CvElementArea="601, 430, 731, 64" CvType="InputBox" DesignTimeRectangle="664, 433, 554, 57" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' type='' class='gLFyf' aaname='Search' /&gt;" Guid="9d6f0882-df09-4b3e-8bf9-16dae390cd54" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="590e5cc2-081e-49c1-aa06-9fdf331d9ac1" CvTextArea="794, 281, 347, 117" CvTextArgument="Google" CvType="Text" DesignTimeRectangle="799, 284, 340, 115" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='lnXdpd' tag='svg' type='' aaname='' /&gt;" Guid="f243fa66-8ba1-4fce-9e72-53d33849dacb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2dd512d75f483057cc3ce4a426620d7b.png" xmlns="">0d0Tk3_-FNkSD04XLoy2mEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
