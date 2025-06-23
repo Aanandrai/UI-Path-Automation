@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qEcDopZ1p0-Mta0SBO2rXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" CVScreenId="3e22840b-15d8-4cef-8a7e-e59443bb2e71" CvElementArea="533, 322, 681, 58" CvType="InputBox" DesignTimeRectangle="535, 321, 685, 58" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='form-control col s6 m6 l6 ng-pristine ng-valid ng-touched' aaname='' /&gt;" Guid="676e8650-3e82-4cb0-b4ef-c900f4db92f0" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3e22840b-15d8-4cef-8a7e-e59443bb2e71" CvTextArea="532, 260, 380, 38" CvTextArgument="Search for Movies" CvType="Text" DesignTimeRectangle="535, 257, 1370, 47" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H4' type='' class='' aaname='Search for Movies' check:innerText='Search for Movies' /&gt;" Guid="c3b950de-155a-47d9-9bb9-881f9cd26076" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="19eade9041da4c0e56788ff8731f3d34.png" xmlns="">0VjQULfMheEy6JBOYFQ3_MA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Split Deposit transacti…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6Mb3LtiHn0ibe3EorbTnIQ",
+  "Reference": "t52KnRHvGUWMiq1TZetS6Q/6Mb3LtiHn0ibe3EorbTnIQ",
+  "ParentRef": "t52KnRHvGUWMiq1TZetS6Q/UByB3jK610278mPT4SRwhA",
+  "Created": "2025-06-23T05:14:37.9537581Z",
+  "Updated": "2025-06-23T05:14:37.9537581Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

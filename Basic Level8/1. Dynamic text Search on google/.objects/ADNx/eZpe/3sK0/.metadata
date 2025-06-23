@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge IMDb Ratings, Reviews, and Where to Watc",
+  "Type": "Screen",
+  "Id": "3sK0J2h2gEmfHUoRGRTRaQ",
+  "Reference": "RmxzNGAFKE2iZgp6bmhCIw/3sK0J2h2gEmfHUoRGRTRaQ",
+  "ParentRef": "RmxzNGAFKE2iZgp6bmhCIw/eZpeneiEJ0WJk1SP6BA-7g",
+  "Created": "2025-06-20T07:14:10.0576308Z",
+  "Updated": "2025-06-20T07:14:10.0576308Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="elgbFcKSQ0GliupwxLBqcw" Reference="RmxzNGAFKE2iZgp6bmhCIw/R6AnAhq7PUuk1uhSCgYHvg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/find" DesignTimeRectangle="220, 799, 949, 96" DesignTimeScaleFactor="1.25" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl parentid='__next' tag='LI' type='' class='ipc-metadata-list-summary-item ipc-metadata-list-summary-item--click find-result-item find-title-result' aaname='' /&gt;" Guid="4978b7a4-1874-4750-96b9-d6f82bf873fc" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find - IMDb' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5c681e79-3058-4f4d-8284-d308858ea34e" CvTextArea="202, 405, 92, 32" CvTextArgument="Titles" CvType="Text" DesignTimeRectangle="190, 695, 105, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='ipc-title__text ipc-title__text--reduced' aaname='Titles' /&gt;" Guid="0c695d83-8eed-4459-b947-ea53b459e800" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5bb1ff7efdf8c51410972f027b9953e2.png" xmlns="">03p6ILDTivU2fnCUCZnOzZw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

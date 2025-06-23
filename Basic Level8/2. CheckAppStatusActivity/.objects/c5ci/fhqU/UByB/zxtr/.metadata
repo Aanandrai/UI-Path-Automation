@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Split Deposit",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "zxtrT2oRvkGd4WGH9mBXkg",
+  "Reference": "t52KnRHvGUWMiq1TZetS6Q/zxtrT2oRvkGd4WGH9mBXkg",
+  "ParentRef": "t52KnRHvGUWMiq1TZetS6Q/UByB3jK610278mPT4SRwhA",
+  "Created": "2025-06-23T05:15:07.6009799Z",
+  "Updated": "2025-06-23T05:15:07.6009799Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

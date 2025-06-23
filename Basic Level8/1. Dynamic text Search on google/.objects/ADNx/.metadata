@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge IMDb Ratings, Reviews, and Where to Watch the Best Movies & TV Shows",
+  "Type": "App",
+  "Id": "ADNxoxuHA06-RbmLBx7vYg",
+  "Reference": "RmxzNGAFKE2iZgp6bmhCIw/ADNxoxuHA06-RbmLBx7vYg",
+  "Created": "2025-06-20T07:14:09.976625Z",
+  "Updated": "2025-06-20T07:14:09.976625Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

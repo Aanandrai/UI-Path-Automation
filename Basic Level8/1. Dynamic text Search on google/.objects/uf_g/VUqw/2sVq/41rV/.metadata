@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save",
+  "Type": "Element",
+  "Id": "41rV4cNVrUSFNkgcMSrz9w",
+  "Reference": "RmxzNGAFKE2iZgp6bmhCIw/41rV4cNVrUSFNkgcMSrz9w",
+  "ParentRef": "RmxzNGAFKE2iZgp6bmhCIw/2sVqtAeu_0SKdmPWdFILdw",
+  "Created": "2025-06-20T10:48:16.8989599Z",
+  "Updated": "2025-06-20T10:48:16.8989599Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

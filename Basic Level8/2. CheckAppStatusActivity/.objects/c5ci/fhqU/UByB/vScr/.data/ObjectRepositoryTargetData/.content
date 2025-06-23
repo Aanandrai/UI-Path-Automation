@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="K5Cm8_maVEiSi45aRo8lzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5d25e2d5-e7e2-49a4-9d20-a57c5f177018" CvTextArea="63, 158, 76, 13" CvTextArgument="Withdrawal" CvType="Text" DesignTimeRectangle="65, 156, 75, 20" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;ctrl automationid='Withdrawalradiobutton' /&gt;&lt;ctrl name='Withdrawal' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='Withdrawalradiobutton' /&gt;&lt;ctrl name='Withdrawal' role='text' automationid='' check:text='Withdrawal' /&gt;" Guid="af56a066-2f15-4e76-a9d6-1ac8dafbc5bf" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="db454f1294d5c7b85b7d29e2fc1c5967.png" xmlns="">02QTDxTa8qUqcF20xZpjLLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6FVAucyTYkKxOETM80Ogxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e4f8bbf4-1c97-4e28-8d43-b7be6fa92e44" CvTextArea="63, 190, 85, 17" CvTextArgument="Split Deposit" CvType="Text" DesignTimeRectangle="65, 187, 84, 20" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Split Deposit' role='radio button' /&gt;&lt;ctrl name='Split Deposit' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Split Deposit' role='radio button' /&gt;&lt;ctrl name='Split Deposit' role='text' automationid='' check:text='Split Deposit' /&gt;" Guid="a202a50a-b20c-42b6-8d12-395a09e34693" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e4f8bbf4-1c97-4e28-8d43-b7be6fa92e44" CvTextArea="20, 107, 86, 15" CvTextArgument="Transaction" CvType="Text" DesignTimeRectangle="22, 107, 84, 19" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Transaction' role='text' /&gt;&lt;ctrl name='Transaction' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Transaction' role='text' /&gt;&lt;ctrl name='Transaction' role='text' automationid='' check:text='Transaction' /&gt;" Guid="84bc0c57-27b1-43a3-af4d-6d032fbd315e" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e6540dc2e045b13ecdaf682a858eac9b.png" xmlns="">0c1-b6-raykuaGWzZJEgjbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dbc69WMDEEuZyq-bzCm0KA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="f0793231-2146-466a-a88a-9677f2cab332" CvTextArea="31, 181, 204, 17" CvTextArgument="Save Ctrl+S" CvType="Text" DesignTimeRectangle="19, 171, 278, 36" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;ctrl name='Save' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Save' role='menu item' automationid='' check:text='Save' /&gt;" Guid="393fd72c-ebf0-4982-8d4a-1bf3e5131a02" ScopeSelectorArgument="&lt;wnd app='notepad.exe' appid='Microsoft.WindowsNotepad_8wekyb3d8bbwe!App' title='PopupHost' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f0793231-2146-466a-a88a-9677f2cab332" CvTextArea="32, 18, 205, 18" CvTextArgument="New tab Ctrl+N" CvType="Text" DesignTimeRectangle="19, 9, 278, 36" FullSelectorArgument="&lt;ctrl name='New tab' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New tab' role='menu item' automationid='' check:text='New tab' /&gt;" Guid="cb6dc76c-cf45-4dd6-be02-27a856085956" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7482bc1e77e425a86bd818ecf459d4c3.png" xmlns="">0NB0RFHh9FUi8cn8bpWRcsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

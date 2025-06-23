@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rq9P-GecL02GDpHxUhPEOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6a3cc821-fdae-4186-9945-135bff77791b" CvTextArea="76, 313, 76, 15" CvTextArgument="Documents" CvType="Text" DesignTimeRectangle="75, 302, 79, 40" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;wnd aaname='Explorer Pane' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Control Host' cls='NamespaceTreeControl' title='Namespace Tree Control' /&gt;&lt;wnd ctrlid='100' title='Navigation Pane' /&gt;&lt;ctrl name='Documents (pinned)' role='outline item' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Explorer Pane' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Control Host' cls='NamespaceTreeControl' title='Namespace Tree Control' /&gt;&lt;wnd ctrlid='100' title='Navigation Pane' /&gt;&lt;ctrl name='Documents (pinned)' role='outline item' automationid='' check:text='Documents (pinned)' /&gt;" Guid="50037732-4013-4416-b93a-2c872c97ac19" ScopeSelectorArgument="&lt;wnd app='notepad.exe' appid='Microsoft.WindowsNotepad_8wekyb3d8bbwe!App' title='Save as' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6a3cc821-fdae-4186-9945-135bff77791b" CvTextArea="75, 233, 56, 17" CvTextArgument="Desktop" CvType="Text" DesignTimeRectangle="75, 222, 59, 40" FullSelectorArgument="&lt;wnd aaname='Explorer Pane' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Control Host' cls='NamespaceTreeControl' title='Namespace Tree Control' /&gt;&lt;wnd ctrlid='100' title='Navigation Pane' /&gt;&lt;ctrl name='Start of Quick Access - Desktop (pinned)' role='outline item' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Explorer Pane' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Control Host' cls='NamespaceTreeControl' title='Namespace Tree Control' /&gt;&lt;wnd ctrlid='100' title='Navigation Pane' /&gt;&lt;ctrl name='Start of Quick Access - Desktop (pinned)' role='outline item' automationid='' check:text='Start of Quick Access - Desktop (pinned)' /&gt;" Guid="1b5cd433-8bd9-4f46-b101-31defaa1a930" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2609de00ab5f04b9a4b9565fcc1e4572.png" xmlns="">0-7A9fQ2UJEqfPbINc488Vg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

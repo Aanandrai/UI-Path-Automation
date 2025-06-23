@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JGDQTJaVv0yzBXepWHA9Lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt0371746" DesignTimeRectangle="190, 858, 1016, 60" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-role='presentation' type='' parentid='__next' tag='SPAN' class='sc-e32edc92-2 hREhQQ' /&gt;" Guid="3c774ae1-e036-4448-a54f-530506de1a60" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Iron Man (2008) - IMDb' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1c967ede-47aa-4bf7-8f63-c01c8b88021d" CvTextArea="190, 162, 234, 50" CvTextArgument="Iron Man" CvType="Text" DesignTimeRectangle="190, 151, 236, 73" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='hero__primary-text' parentid='__next' tag='SPAN' type='' aaname='Iron Man' /&gt;" Guid="91b7bb99-4f2f-4b1b-9415-4a0dd926c9a1" ImageBase64="" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="393ffb0aad7bdfff333dcf6409a6ff5f.png" xmlns="">0D4lZDg2ZkUuMV46D__8AMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

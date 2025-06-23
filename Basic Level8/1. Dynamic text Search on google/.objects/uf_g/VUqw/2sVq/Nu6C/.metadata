@@ -1,0 +1,13 @@
+﻿{
+  "Name": "PopupHost",
+  "Type": "Element",
+  "Id": "Nu6CBahUzUCrj9opwXiP6A",
+  "Reference": "RmxzNGAFKE2iZgp6bmhCIw/Nu6CBahUzUCrj9opwXiP6A",
+  "ParentRef": "RmxzNGAFKE2iZgp6bmhCIw/2sVqtAeu_0SKdmPWdFILdw",
+  "Created": "2025-06-20T11:14:56.7923135Z",
+  "Updated": "2025-06-20T11:14:56.7923135Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

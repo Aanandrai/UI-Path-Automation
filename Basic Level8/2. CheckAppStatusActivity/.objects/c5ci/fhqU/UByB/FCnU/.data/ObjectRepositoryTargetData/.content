@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LdFI3LlmFk2q5_ZMZkFoXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="612623c7-fb49-4455-919b-59a4cecd0261" CvElementArea="548, 679, 104, 41" CvTextArea="575, 692, 48, 16" CvTextArgument="Accept" CvType="Button" DesignTimeRectangle="550, 682, 100, 39" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Accept' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Accept' role='push button' automationid='' check:text='Accept' /&gt;" Guid="f23bab6b-cf89-4b0f-983a-36a8ad54fe62" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="612623c7-fb49-4455-919b-59a4cecd0261" CvElementArea="321, 680, 104, 41" CvTextArea="348, 691, 48, 15" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="323, 682, 100, 39" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Cancel' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Cancel' role='push button' automationid='' check:text='Cancel' /&gt;" Guid="ed975216-e78a-46d1-b312-8995e89c4ff9" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="155835872ab70d4ddf81629abc742a43.png" xmlns="">0YAk82Agxhk6lLbAxFaxJiQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

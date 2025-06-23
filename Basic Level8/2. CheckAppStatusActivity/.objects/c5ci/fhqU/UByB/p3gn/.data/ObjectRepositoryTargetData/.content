@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uTMSmwZqO0OK0ofI93SRDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="29f29d08-0d2e-4655-8131-aae5bc76f8d6" CvElementArea="412, 257, 154, 32" CvType="InputBox" DesignTimeRectangle="415, 259, 150, 29" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl automationid='onustb' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='onustb' role='editable text' /&gt;" Guid="4d71f8d8-1de1-4f3a-a09a-edf40751f058" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="29f29d08-0d2e-4655-8131-aae5bc76f8d6" CvTextArea="283, 262, 107, 16" CvTextArgument="On Us Check" CvType="Text" DesignTimeRectangle="285, 262, 104, 20" ElementType="Text" FullSelectorArgument="&lt;ctrl name='On Us Check' role='text' /&gt;&lt;ctrl name='On Us Check' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='On Us Check' role='text' /&gt;&lt;ctrl name='On Us Check' role='text' automationid='' check:text='On Us Check' /&gt;" Guid="88a4d885-684f-4803-883b-ec6f337bd255" SearchSteps="Selector, FuzzySelector, CV" />
+          <Target CVScreenId="29f29d08-0d2e-4655-8131-aae5bc76f8d6" CvTextArea="328, 213, 61, 16" CvTextArgument="Cash In" CvType="Text" DesignTimeRectangle="329, 213, 60, 20" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Cash In' role='text' /&gt;&lt;ctrl name='Cash In' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Cash In' role='text' /&gt;&lt;ctrl name='Cash In' role='text' automationid='' check:text='Cash In' /&gt;" Guid="d57b7c80-aed1-4cb1-ba4d-e2d21d513769" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b577dd00a0f0000de5431cefda18bc0e.png" xmlns="">0KN368ZQgG063X7luXioa_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

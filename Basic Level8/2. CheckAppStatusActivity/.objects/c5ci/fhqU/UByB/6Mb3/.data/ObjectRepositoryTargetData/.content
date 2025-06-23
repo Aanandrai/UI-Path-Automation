@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PaQYm_mUyEmt-YtXtn79yQ" Reference="t52KnRHvGUWMiq1TZetS6Q/6Mb3LtiHn0ibe3EorbTnIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="f8ba0c4f-e687-440e-9df2-2daeb71f14ec" ContentHash="gQhffUHmMUWUOVIk6Z9c2A" CvTextArea="391, 118, 209, 21" CvTextArgument="Split Deposit transaction" CvType="Text" DesignTimeRectangle="388, 113, 218, 33" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Split Deposit transaction' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Split Deposit transaction' role='text' automationid='' check:text='Split Deposit transaction' /&gt;" Guid="a7db730d-dc57-4af9-9f72-dc8d424cb7c0" ImageBase64="" Reference="t52KnRHvGUWMiq1TZetS6Q/6Mb3LtiHn0ibe3EorbTnIQ" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="c6179bc8-2863-490e-9510-c99698ce07fb" CvTextArea="335, 52, 108, 33" CvTextArgument="UiPath" CvType="Text" DesignTimeRectangle="336, 51, 108, 45" ElementType="Text" FullSelectorArgument="&lt;ctrl automationid='MainTitle' /&gt;&lt;ctrl name='UiPath' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='MainTitle' /&gt;&lt;ctrl name='UiPath' role='text' automationid='' check:text='UiPath' /&gt;" Guid="627b6ba4-f80e-4c52-a20e-eb6d8ccebb17" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="721c3754da8bf116596d78a76a14327d.png" xmlns="">0BpF6sL3yvku3gO_n0UZRAA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
