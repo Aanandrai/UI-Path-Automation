@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-0VqKcfH7U-e0leMZjfQsA" Reference="OF87y1WVw0iNfxBA7nXb7w/GmX0-sMZj0-9A2chiGqYtg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="56fd7e7e-c8b0-46af-9445-e337dc6f11a3" CvTextArea="632, 691, 97, 16" CvTextArgument="Add Vendor" CvType="Text" DesignTimeRectangle="611, 685, 310, 33" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Add Vendor' parentid='dashmenu' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Add Vendor' parentid='dashmenu' tag='A' type='' class='' check:innerText='Add Vendor' /&gt;" Guid="64ee9d35-edcf-4c55-bbc4-656f0dd7267b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="56fd7e7e-c8b0-46af-9445-e337dc6f11a3" CvElementArea="331, 640, 257, 62" CvTextArea="434, 657, 85, 21" CvTextArgument="Vendors" CvType="Button" DesignTimeRectangle="334, 643, 250, 57" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                  Vendors' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' check:innerText='Vendors' /&gt;" Guid="79f69f9a-85ac-4bd0-9b0f-5de90c3e999f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="11a8a5bebea279bb80e7ca2cb84f8a96.png" xmlns="">0_qcUib89kkexlRzubu6CSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

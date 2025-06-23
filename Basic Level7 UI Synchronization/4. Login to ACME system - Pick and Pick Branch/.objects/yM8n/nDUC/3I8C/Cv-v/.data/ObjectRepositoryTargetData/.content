@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wOqGH6TJlEOBs4iitdz3ug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="1ece6a3a-79e5-4f12-8c3b-2425093f5d3f" CvTextArea="256, 276, 717, 46" CvTextArgument="Reports - Download Monthly Report" CvType="Text" DesignTimeRectangle="257, 270, 1425, 61" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                                                                                                                                                     Reports - Download Monthly Report                                                         ' check:innerText='Reports - Download Monthly Report' /&gt;" Guid="87819e04-9b0e-4149-a9e5-62564c910bc0" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1ece6a3a-79e5-4f12-8c3b-2425093f5d3f" CvTextArea="254, 177, 166, 21" CvTextArgument="ACME System 1" CvType="Text" DesignTimeRectangle="238, 157, 202, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='navbar-brand' aaname='ACME System 1' check:innerText='ACME System 1' /&gt;" Guid="38f9c390-3162-41ff-9a28-f9c59317320e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="79268d75ca8cb0420d0e0afd4e01c937.png" xmlns="">0F0Z0z3AFJEGKF_O9keKp3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
